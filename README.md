@@ -1,2 +1,2 @@
 # mini-react
-This is a mini-react, hope to know react well together
+A mini version of React Framework
